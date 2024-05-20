@@ -54,10 +54,10 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <div className="avatar ">
-              <div className="rounded-full border-8 border-white shadow-md">
-                <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+          <div className=" w-full lg:w-5/12">
+            <div className=" ">
+              <div className="rounded-full ">
+                <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" className="rounded-full shadow-xl border-4 " />
               </div>
             </div>
           </div>
